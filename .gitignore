@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ransomware Decade dataset files (download from Zenodo record 15571866;
+# they are not redistributed in this repository)
+dataset/
+incidents.csv
+incidents.zip
+schema.json
+
+# Local run outputs from code/select_incidents.py
+# (committed copies of the selection outputs live in data/)
+outputs/
+
+# OS and editor noise
+.DS_Store
+*.swp

@@ -1,0 +1,89 @@
+category,item,count,denominator
+sample_by_year,2020,6,24
+sample_by_year,2021,6,24
+sample_by_year,2022,6,24
+sample_by_year,2023,6,24
+ransomware_confirmed,yes,24,24
+service_disrupted,EHR/clinical records,10,24
+service_not_coded,EHR/clinical records,14,24
+service_disrupted,imaging/radiology,4,24
+service_not_coded,imaging/radiology,20,24
+service_disrupted,laboratory,3,24
+service_not_coded,laboratory,21,24
+service_disrupted,pharmacy,2,24
+service_not_coded,pharmacy,22,24
+service_disrupted,scheduling/appointments,5,24
+service_not_coded,scheduling/appointments,19,24
+service_disrupted,emergency care/patient diversion,2,24
+service_not_coded,emergency care/patient diversion,22,24
+service_disrupted,surgery/procedures,4,24
+service_not_coded,surgery/procedures,20,24
+service_disrupted,communications,3,24
+service_not_coded,communications,21,24
+service_disrupted,billing/administrative,5,24
+service_not_coded,billing/administrative,19,24
+service_disrupted,general IT systems (unspecified),6,24
+service_not_coded,general IT systems (unspecified),18,24
+service_disrupted_other_spec,other (cardiology),1,24
+service_disrupted_other_spec,other (organization website),1,24
+service_disrupted_other_spec,other (outpatient physical therapy),1,24
+service_disrupted_other_spec,other (radiation oncology),1,24
+service_disrupted_other_spec,other (supply chain system),1,24
+service_disrupted_other_spec,other (urgent care center),1,24
+service_disrupted_other_spec,other (women's wellness center),1,24
+service_disrupted_other_spec,other (wound healing center),1,24
+services_field_status,not reported,4,24
+services_field_status,reported absent,1,24
+services_field_status,at least one service coded,19,24
+field_status:services_affected,reported content,19,24
+field_status:services_affected,not reported,4,24
+field_status:services_affected,reported absent,1,24
+field_status:operational_effect,reported content,15,24
+field_status:operational_effect,not reported,3,24
+field_status:operational_effect,reported absent,6,24
+field_status:workaround,reported content,11,24
+field_status:workaround,not reported,13,24
+field_status:recovery_technical,reported content,11,24
+field_status:recovery_technical,not reported,12,24
+field_status:recovery_technical,reported absent,1,24
+field_status:recovery_operations,reported content,6,24
+field_status:recovery_operations,not reported,11,24
+field_status:recovery_operations,reported absent,1,24
+field_status:recovery_operations,n/a,6,24
+field_status:recovery_limitations,reported content,18,24
+field_status:recovery_limitations,not reported,6,24
+recovery_reported_content,recovery_technical,11,24
+recovery_reported_content,recovery_operations,6,24
+recovery_reported_content,recovery_limitations,18,24
+workaround_type,paper/manual downtime procedures,6,11
+workaround_type,transfers/diversion/referral to partner or outside providers,3,11
+workaround_type,manual financial processes,1,11
+workaround_type,other,3,11
+workaround,any workaround reported,11,24
+workaround,not reported,13,24
+limitation_group,notification/data tails,11,18
+limitation_group,permanent data loss,4,18
+limitation_group,prolonged service limits,5,18
+limitation_group,other,2,18
+recovery_limitations,any limitation reported,18,24
+recovery_limitations,not reported,6,24
+vendor_mediated,vendor-mediated incidents,6,24
+vendor_mediated,direct incidents,18,24
+vendor_field_content,services_affected content (vendor),2,6
+direct_field_content,services_affected content (direct),17,18
+vendor_field_content,operational_effect content (vendor),2,6
+direct_field_content,operational_effect content (direct),13,18
+vendor_field_content,workaround content (vendor),1,6
+direct_field_content,workaround content (direct),10,18
+vendor_field_content,recovery_technical content (vendor),3,6
+direct_field_content,recovery_technical content (direct),8,18
+vendor_field_content,recovery_operations content (vendor),1,6
+direct_field_content,recovery_operations content (direct),5,18
+vendor_field_content,recovery_limitations content (vendor),3,6
+direct_field_content,recovery_limitations content (direct),15,18
+derived_fields_not_reported_per_incident,0 of 6 fields not reported,7,24
+derived_fields_not_reported_per_incident,1 of 6 fields not reported,3,24
+derived_fields_not_reported_per_incident,2 of 6 fields not reported,5,24
+derived_fields_not_reported_per_incident,3 of 6 fields not reported,2,24
+derived_fields_not_reported_per_incident,4 of 6 fields not reported,5,24
+derived_fields_not_reported_per_incident,5 of 6 fields not reported,2,24
