@@ -119,8 +119,9 @@ The full analysis is in `docs/ANALYSIS.md`. The headline findings:
   notices say systems were affected without naming any.
 - Recovery is reported unevenly. Continuing limitations are the most
   reported recovery fact (18 of 24), ahead of technical restoration
-  (11 of 24), and an operations-resumption milestone is the least reported
-  (6 of 24). The limitations are dominated by breach notification and data
+  (11 of 24), and operations resumption is the least reported (6 of 24:
+  5 clear resumption milestones plus 1 case where care was maintained
+  throughout). The limitations are dominated by breach notification and data
   tails that run for months after the clinical story ends.
 - Workarounds are not reported in 13 of 24 incidents. Where they are
   reported, paper and manual downtime procedures are the most common type.
